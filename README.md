@@ -1,4 +1,4 @@
-#subport
+#Subport
 Find subdomains and scan open ports/services/versions of each domain.
 
 #Commands

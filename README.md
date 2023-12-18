@@ -1,6 +1,6 @@
 # Subport - Subdomain and Port Scanner
 
-![Banner](https://i.imgur.com/n7eVrbg.png)
+
 ![Banner](https://i.imgur.com/hm2SZfW.png)
 
 ## Overview
